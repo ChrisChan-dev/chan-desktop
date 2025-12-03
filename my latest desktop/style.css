@@ -229,7 +229,6 @@ h3{
 body.dark-mode .tag-list li:hover, 
 body.dark-mode .tech-list li:hover{
     color: #121212;
-    font-weight: 600;
 }
 
 .cert-grid{
